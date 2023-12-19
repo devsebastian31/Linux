@@ -2,7 +2,7 @@
 
 
 ```
-git clone https://github.com/SebastianZhunaula/Linux.git
+git clone https://github.com/Devsebastian31/Linux.git
 
 cd Linux
 
